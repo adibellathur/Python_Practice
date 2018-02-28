@@ -1,0 +1,2 @@
+python2.7(version running on terminal): usr/local/lib/python2.7/site-packages/pip
+location pip installs everything in: Library/Python/2.7/site-packages/pip
